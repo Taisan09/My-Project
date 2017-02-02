@@ -1,0 +1,14 @@
+.vs/
+Debug/
+Release/
+x64/
+/packages/
+Thumbs.db
+*.com
+*.exe
+*.VC.VC.opendb
+*.VC.db
+*~
+*.bak
+*.tmp
+*.swp
